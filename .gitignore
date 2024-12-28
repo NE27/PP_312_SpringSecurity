@@ -1,9 +1,0 @@
-# Игнорировать 
-*
-
-# Не игнорировать
-!src/main/
-!src/main/**
-!pom.xml
-/src/test/
-/.mvn/
